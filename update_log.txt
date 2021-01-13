@@ -1,0 +1,4 @@
++
+GUI with master window icon
+'q' button end detection from feed
+saves output of the Real time detection
